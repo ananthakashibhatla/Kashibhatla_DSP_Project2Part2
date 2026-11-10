@@ -3,7 +3,7 @@
 Purpose: To explore the first five Hacker News pages with built-in pandas functions, 
 perform data preprocessing/cleaning as well as basic EDA with points, domains and comments
 
-## $ DS Questions Asked & Answered
+## 4 DS Questions Asked & Answered
 
 1. What is the relationship between a story popularity versus the points?
 2. What is the relationship between a story popularity versus the comments?
